@@ -1,0 +1,13 @@
+Cara Running Web:
+
+1. Import "database taskpweb" di phpmyadmin
+2. Pindahkan folder Ujian ke dalam folde XAMPP -> htdocs
+3. Nyalakan apache dan mysql
+4. Ketik "http://localhost/Ujian" dibrowser
+5. Untuk login menggunakan username: adit dan password: praktikum
+6. Isi form data buku perpustakaan kemudian simpan data
+7. Untuk mengedit klik button edit
+8. Untuk menghapus klik button hapus
+9. Untuk melihat detail klik button detail
+
+ 
